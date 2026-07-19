@@ -47,8 +47,7 @@ This dashboard answers key business questions such as:
 
 ## 📌 Dashboard Preview
 
-![Financial Analytics Dashboard](Financial Analytics Dashboard.png)
-
+![Financial Analytics Dashboard](Financial%20Analytics%20Dashboard.png)
 ---
 
 ## 💡 Key Insights
