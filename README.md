@@ -117,15 +117,10 @@ Financial-Analytics-Dashboard/
 
 ---
 
-## 📬 Contact
+## Author
 
 **Thanushree J**
 
-📧 Email: your-email@example.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/your-profile/
-
-💻 GitHub: https://github.com/your-github-username
 
 ---
 
